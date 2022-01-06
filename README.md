@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **santosh1603udt@gmail.com**
 
-- ⚡ Fun fact **Just Netflix and some Sour cream,onion chips**
+- ⚡ Fun fact **Just Netflix some Sour cream and Salted onion chips**
 
 ## 2. 🚀 Languages and Tools:
 
