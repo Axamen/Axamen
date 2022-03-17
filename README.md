@@ -6,7 +6,7 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **UI/UX design for an yoga application**
+- 🔭 I’m currently working on **UI/UX design for an Mood tracking Application**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
