@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **UI/UX design for an Mood tracking Application**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **React and Algorithms**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
