@@ -28,7 +28,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
      <a href="https://www.adobe.com//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+   
    
 </p>
 
