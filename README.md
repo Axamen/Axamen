@@ -6,7 +6,7 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **UI/UX design for an Mood tracking Application**
+- 🔭 I’m currently working on **Nike Web App UI**
 
 - 🌱 I’m currently learning **Javascript and Algorithms**
 
