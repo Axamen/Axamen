@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on **Nike Web App UI**
 
-- 🌱 I’m currently learning **Javascript and Algorithms**
+- 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at My Portfolio
 
 - 📫 How to reach me **santosh1603udt@gmail.com**
 
