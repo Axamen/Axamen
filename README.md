@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Nike Web App UI**
 
-- 🌱 I’m currently learning **Javascript & React js**
+- 🌱 I’m currently learning **Deno & Node js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
