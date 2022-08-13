@@ -6,13 +6,13 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Nike Web App UI**
+- 🔭 I’m currently working on **Coffee shop App UI**
 
-- 🌱 I’m currently learning **Deno & Node js**
+- 🌱 I’m currently learning **JS & Deno**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **santosh1603udt@gmail.com**
+- 📫 How to reach me **santosh1603udt@gmail.com - https://santoholic.github.io/Portfolio/**
 
 - ⚡ Fun fact **Just Netflix some Sour cream and Salted onion chips**
 
