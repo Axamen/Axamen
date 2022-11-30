@@ -6,15 +6,15 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Coffee shop App UI**
+- 🔭 I’m currently working on **Financial Payment App UI**
 
-- 🌱 I’m currently learning **JS & Deno**
+- 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **santosh1603udt@gmail.com - https://santoholic.github.io/Portfolio/**
 
-- ⚡ Fun fact **Just Netflix some Sour cream and Salted onion chips**
+- ⚡ Fun fact **Just Netflix and peanuts**
 
 ## 2. 🚀 Languages and Tools:
 
