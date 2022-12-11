@@ -6,7 +6,7 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Financial Payment App UI**
+- 🔭 I’m currently working on **New balance Shopping App UI**
 
 - 🌱 I’m currently learning **Javascript**
 
