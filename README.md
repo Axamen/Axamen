@@ -54,10 +54,3 @@
 <br/>
 <br/>
 
-## 4. Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/santosh-s-307a441b8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/santosh03247962"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_santosh03_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
